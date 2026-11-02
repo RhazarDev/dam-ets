@@ -30,3 +30,6 @@ Documentar el flujo de trabajo Git de un equipo de desarrollo.
 
 ## Revisión desde GitHub
 La integración de cambios exige revisar el historial y sincronizar conscientemente el repositorio.
+
+## Seguimiento del equipo 2
+Cambio propio pendiente de sincronización.
