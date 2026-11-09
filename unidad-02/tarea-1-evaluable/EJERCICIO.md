@@ -37,7 +37,7 @@ Selecciona en diagrams.io las figuras de **Flowchart / Diagrama de flujo**. Empl
 
 **Todos los diagramas se realizarán en [diagrams.io](https://app.diagrams.net/).** Al guardar/exportar cada uno, utiliza **Archivo → Exportar como → PNG** y activa la opción **«Incluir una copia de mi diagrama» / «Include a copy of my diagram»** (su nombre puede variar según el idioma o la versión). De esta manera el PNG conservará los datos del diagrama para reabrirlo y editarlo en diagrams.io.
 
-Guarda los archivos con estos nombres exactos: `ejercicio-1.drawio.png`, `ejercicio-2.drawio.png`, `ejercicio-3.drawio.png`.
+Guarda los archivos con estos nombres exactos: `ejercicio1.drawio.png`, `ejercicio2.drawio.png`, `ejercicio-3.drawio.png`.
 
 > Una captura de pantalla o un PNG normal **no** sustituye a un `.drawio.png` editable. Comprueba cada archivo abriéndolo de nuevo en diagrams.io.
 
@@ -66,9 +66,9 @@ El algoritmo debe:
 
 ### Diagrama resuelto de referencia
 
-![Diagrama de flujo resuelto del ejercicio 1](diagramas/ejercicio-1.drawio.png)
+![Diagrama de flujo resuelto del ejercicio 1](diagramas/ejercicio1.drawio.png)
 
-**Tu tarea con el ejercicio 1:** utiliza este dibujo como guía, **reconstrúyelo en diagrams.io**, guarda/exporta tu propia versión editable con el nombre `diagramas/ejercicio-1.drawio.png` y comprueba que incluye todas las ramas. No basta con subir la imagen proporcionada sin recrear el diagrama.
+**Tu tarea con el ejercicio 1:** utiliza este dibujo como guía, **reconstrúyelo en diagrams.io**, guarda/exporta tu propia versión editable con el nombre `diagramas/ejercicio1.drawio.png` y comprueba que incluye todas las ramas. No basta con subir la imagen proporcionada sin recrear el diagrama.
 
 **Pruebas de ejemplo:**
 
@@ -99,10 +99,10 @@ Diseña **por tu cuenta** un algoritmo que reciba un entero como texto, valide l
 
 ### Qué debes construir
 
-En este `README.md`, **debajo de este apartado**, escribe tu propia **definición del algoritmo**, identificando entrada, procesos, decisiones, salidas y tratamiento de errores. Construye el diagrama en diagrams.io y guárdalo como `diagramas/ejercicio-2.drawio.png`. Inserta después esta imagen en el README usando Markdown:
+En este `README.md`, **debajo de este apartado**, escribe tu propia **definición del algoritmo**, identificando entrada, procesos, decisiones, salidas y tratamiento de errores. Construye el diagrama en diagrams.io y guárdalo como `diagramas/ejercicio2.drawio.png`. Inserta después esta imagen en el README usando Markdown:
 
 ```markdown
-![Diagrama del ejercicio 2](diagramas/ejercicio-2.drawio.png)
+![Diagrama del ejercicio 2](diagramas/ejercicio2.drawio.png)
 ```
 
 **Pruebas mínimas que debes documentar:** `" 42 "`, `"-7"`, `"0"` y `"hola"` (además de cualquier caso adicional que consideres necesario). Escribe para cada entrada la salida esperada y contrástala siguiendo tu diagrama.

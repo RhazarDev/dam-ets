@@ -38,7 +38,7 @@ Solicitar el nombre completo del usuario como cadena de texto. Eliminar espacios
 
 ### Diagrama de flujo
 
-![Solución del ejercicio 1: analizador de nombres](diagramas/ejercicio-1.drawio.png)
+![](diagramas/ejercicio1.drawio.png)
 
 ### Pruebas manuales
 
@@ -74,7 +74,7 @@ Leer un número entero como `String`, eliminar espacios exteriores, validar que 
 
 ### Diagrama de flujo
 
-![Solución del ejercicio 2: validación y clasificación de números](diagramas/ejercicio-2.drawio.png)
+![imagen2](diagramas/ejercicio2.drawio.png)
 
 ### Pruebas manuales
 
