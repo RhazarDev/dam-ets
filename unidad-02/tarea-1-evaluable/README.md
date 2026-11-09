@@ -115,7 +115,7 @@ Leer un código de exactamente seis dígitos como `String`, respetando los ceros
 
 ### Diagrama de flujo
 
-![Solución del ejercicio 3: análisis de códigos numéricos](diagramas/ejercicio-3.drawio.png)
+![imagen3](diagramas/ejercicio3.drawio.png)
 
 ### Pruebas manuales
 
